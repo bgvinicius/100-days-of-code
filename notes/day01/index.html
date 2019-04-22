@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h2>The display property</h2>
+
+    <div id="block">
+        Block Element, fills a whole line. Div is the standard block level element, 
+        semantic block level elements are: header, footer, section, etc.
+    </div>
+
+    <div id="inline">
+        Inline element, wraps <span>some text/content inside a paragraph</span> without 
+        disrupting the flow of that paragraph.The default inline element is the <span>span</span>, 
+        but another example is the anchor tag element.
+    </div>
+
+    <div>
+        An exotic display type is "none", an element with display "none" will make the page 
+        render it as the element doesn't exist. This is different from "visibility: hidden;",
+        which will hide the element, but it will continue taking space on the page, like an visible element would.
+    </div>
+
+    <h2>Ways to center stuff</h2>
+
+    <div id="width_margin0auto">
+        "margin: 0 auto;" and "width: 400px". Centers an element. The element will take the specified width, 
+        and then the remaining space will be evenly divided between the left and right margin.
+        But, there is a problem, if the current window size is smaller than the width you've set, the browser
+        will use a scrollbar to navigate between the screen, which is bad (at least IMO, not very responsive :( )
+    </div>
+
+    <div id="maxwidth_margin0auto">
+        "margin: 0 auto;" and "max-width: 400px". It also centers an element, buuut, 
+        if the screen size is smaller than the specified max-width, 
+        the element will shrink to a smaller size, in order to fit the screen size. 
+        It improves the responsivity on smaller devices! :D
+        The element size will take at most the specified max-width, but no more than. 
+        This way, the browser can set a smaller width if it needs to.
+    </div>
+
+    <h2>Box Model</h2>
+
+    <div>
+        Box model. Be careful when setting widths, because, sometimes, the element may end up bigger 
+        than originally planned, that happens because the element can have some extra padding and borders, 
+        which stretch the element beyond the original width. See 
+        <a href="http://learnlayout.com/box-model.html" target="_blank">box-model.</a>
+        For some time, people used to workaround this using smaller widths, subtracting the padding and border. But that's not very good :c
+    </div>
+
+    <div>
+        To fix the previous problem, a new css property was created, the box-sizing property. 
+        With the box-sizing property, you can set box-sizing: border-box; on an element, and then, 
+        the padding and border of that element will no longer increase its width. 
+    </div>
+
+    <h2>Position property</h2>
+    <div>
+        The "position" property. <a href="positions.html">Click here for more info about the position property</a> 
+    </div>
+
+</body>
+</html>

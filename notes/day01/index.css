@@ -1,0 +1,20 @@
+
+#block {
+    background: red;
+}
+
+#inline span {
+    background: yellow;
+}
+
+#width_margin0auto  {
+    background: pink;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#maxwidth_margin0auto  {
+    background: blueviolet;
+    max-width: 600px;
+    margin: 0 auto;
+}

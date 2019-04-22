@@ -1,0 +1,54 @@
+#static {
+    position: static;
+    background: yellow;
+}
+
+#relative1 {
+    position: relative;
+    background: pink;
+    margin-bottom: 25px;
+}
+
+#relative2 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+    background-color: white;
+    width: 500px;
+}
+
+#fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 500px;
+    background-color: orange;
+}
+
+#relative3 {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    background: red;
+}
+
+#absolute {
+    position: absolute;
+    top: 120px;
+    right: 0;
+    width: 300px;
+    height: 200px;
+    background: blueviolet;
+}
+
+#not-positionated {
+    background: cyan;
+}
+
+#absolute2 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: greenyellow;
+    width: 150px;
+}

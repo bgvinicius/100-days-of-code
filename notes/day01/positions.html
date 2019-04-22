@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="positions.css">
+</head>
+<body>
+    <div id="static">
+        We can have "position: static;" which is the default value for this property. 
+        The element isn't positionated in any special way, and an element with "static" position
+        is said to be not positionated, and an element with any other value for "position" 
+        is said to be positionated.
+    </div>
+
+    <div id="relative1">
+        Relative (position: relative;) behaves the same way as "static", unless you add some extra properties.
+        (top, right, bottom, left)
+    </div>
+
+    <div id="relative2">
+        Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to 
+        be adjusted away from its normal position. 
+        Other content will not be adjusted to fit into any gap left by the element. 
+    </div>
+
+    <div>
+        (See, there is a gap between this element and the above element)
+    </div>
+
+    <div id="fixed">
+        Fixed (position: fixed;) places the element relative to the viewport, which means it
+        always stays at the same place even if the page is scrolled. 
+        We also use the top, right, left and bottom properties with the fixed position.
+        Fixed elements doesn't leave a gap on their original position, to there is no problem here.
+    </div>
+
+    <div>(See fixed element at bottom of screen, also, see, no gap here!! Yay =D)</div>
+
+    <div>Absolute (position: absolute;) absolute behaves like fixed except relative to the nearest 
+        positioned ancestor instead of relative to the viewport. 
+        If an absolutely-positioned element has no positioned ancestors, 
+        it uses the document body, and still moves along with page scrolling.</div>
+
+    <div id="relative3">
+        This element is relatively-positioned. If this element was position: static; 
+        its absolutely-positioned child would escape and would be positioned relative to the document body. 
+
+        <div id="absolute">
+            This element is absolutely-positioned. It's positioned relative to its parent. 
+        </div>
+    </div>
+
+    <div id="not-positionated">
+        This element isn't positionated (position: static), so its children will 
+        be positionated relative to the document body.
+        <div id="absolute2">
+            An absolutely-positionated 
+            element relative to the document body (because its parent element isn't positionated)
+        </div>
+    </div>
+</body>
+</html>
