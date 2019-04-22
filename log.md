@@ -4,11 +4,10 @@ The log of my #100DaysOfCode challenge.
 
 Started on April 22, 2019.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 22, 2019 - Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Exercised CSS foundations, block vs inline elements, centering elements with margin 0 auto, using max-width to add responsivity on smaller screens, side-effects of using width with the box model, the box-sizing property (new to me), and CSS positions (static, relative, fixed, absolute)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Today was mostly a review of some stuff I've already studied but wasn't very fresh in my mind. I've also learned a new property (box-sizing) and how to use the position property properly! Feeling ery happy right now :D
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [My notes about the topics above (day 01)](./notes/day01/index.html)
