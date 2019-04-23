@@ -1,0 +1,56 @@
+.float-example img {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+.float-example {
+    margin: 33px auto;
+    max-width: 33%;
+    background: beige;
+}
+
+.box1 {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    background: red;
+}
+
+.box2 {
+    background: pink;
+}
+
+.clear-text {
+    clear: left;
+}
+
+.box2-clear {
+    background: pink;
+    clear: left;
+}
+
+.image-overflow {
+    margin-top: 15px;
+    background: yellowgreen;
+}
+
+.image-overflow img {
+    float:  right;
+}
+
+.clearfix-text {
+    background: yellow;
+    clear: right;
+    margin-top: 15px;
+}
+
+.image-overflow-2 {
+    margin-top: 15px;
+    background: yellowgreen;
+    overflow: auto;
+}
+
+.image-overflow-2 img {
+    float:  right;
+}

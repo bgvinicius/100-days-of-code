@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="float-example">
+        Using float to wrap text around images
+        <br>
+
+        <img src="http://learnlayout.com/images/ilta.png" alt="A cute picture">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim
+        ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. 
+        Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit. 
+    </div>
+
+    <div>
+        Now, using the "clear" property to control the behavior of floats. Check the example below.
+    </div>
+
+    <div class="box1">
+        Box 1. This box is using a left float. (literally floating..)
+    </div>
+
+    <div class="box2">
+        Box 2. This element comes after box1, but it isn't floated. 
+        We have a small problem here, the box1 is floating above this box... uh-oh..
+        That happens because the box 1 has a left float.
+        The box2 content is floated around the box1, and the box2 will surround the whole thing.
+    </div>
+
+    <div class="clear-text">
+        We can fix this small problem using the "clear" property. 
+        Since box1 is floated to the left, we can use clear: left; 
+        to clear elements floated to the left, in this case, box1.
+    </div>
+
+    <div class="box1">
+        Box 1. This box is using a left float.
+    </div>
+
+    <div class="box2-clear">
+            Box 2. Now, below box1. Using clear: left. We can also use clear: right and clear: both.
+    </div>
+
+    <div class="image-overflow">
+        <img src="http://learnlayout.com/images/ilta.png" alt="A cute picture!">
+        When using float, some bad stuff can happen..
+        Here is an example with an image taller than this element, using a float right. 
+        In this example, the image is overflowing outside the div, ouch :(
+    </div>
+
+    <div class="clearfix-text">
+        There is a way to fix this, using the "clearfix" hack. 
+        It's kinda ugly, but works with most browsers.
+        Just set this property on the <strong>container element</strong>: overflow: auto;
+    </div>
+
+    <div class="image-overflow-2">
+        <img src="http://learnlayout.com/images/ilta.png" alt="A cute picture!">
+        Now, there is no overflow, yay! But, kinda ugly :p. Here, we're using overflow: auto; on this div, 
+        because it contains the overflowing image. People seems to just create a class called "clearfix" 
+        with this property, and then apply it on the necessary elements. 
+        <a href="http://learnlayout.com/clearfix.html" target="_blank">More info here.</a>
+    </div>
+</body>
+</html>
