@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="box-model.css">
+</head>
+<body>
+
+    <div class="orange">
+        Everything on the screen is treated like a box, and this box has: margin, padding and a border.
+    </div>
+
+    <div>
+        Box model. Be careful when setting widths, because, sometimes, the element may end up bigger 
+        than originally planned, that happens because the element can have some extra padding and borders, 
+        which stretch the element beyond the original width. See 
+        <a href="http://learnlayout.com/box-model.html" target="_blank">box-model.</a>
+        For some time, people used to workaround this using smaller widths, subtracting the padding and border. But that's not very good :c
+    </div>
+
+    <div class="no-padding-no-border">
+        Here, a box with width "500" and no padding & border set.
+    </div>
+
+    <div class="with-padding-border">
+        Now, a box with width "500", 50px padding and 10px border width. Not the same width, huh? :(
+    </div>
+
+    <div>
+        To fix the previous problem, a new css property was created, the box-sizing property. 
+        With the box-sizing property, you can set box-sizing: border-box; on an element, and then, 
+        the padding and border of that element will no longer increase its width. 
+    </div>
+
+    <div class="box-sizing-only">
+        Now, 500px width, without padding & border width set but using box-sizing: border-box
+    </div>
+
+    <div class="box-sizing-padding-border">
+        Aaand, again, using 500px width, 50px padding, 10px border width, but now 
+        with border-box box sizing. Same width! Yay =D
+    </div>
+</body>
+</html>

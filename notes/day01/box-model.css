@@ -1,0 +1,39 @@
+.orange {
+    background: orange;
+    margin: 15px;
+    padding: 30px;
+}
+
+.no-padding-no-border {
+    width: 500px;
+    background: lawngreen;
+    margin: 20px;
+}
+
+.with-padding-border {
+    width: 500px;
+    padding: 50px;
+    border-width: 10px;
+    background: purple;
+    margin: 20px;
+}
+
+.box-sizing-only {
+    width: 500px;
+    background: blueviolet;
+    margin: 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
+
+.box-sizing-padding-border {
+    width: 500px;
+    padding: 50px;
+    border-width: 10px;
+    background: cyan;
+    margin: 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
