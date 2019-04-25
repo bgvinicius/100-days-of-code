@@ -19,3 +19,11 @@ Started on April 22, 2019.
 **Thoughts:** Today was slightly harder than yesterday. I think it was because my mind was pushing me towards relax & study later, but I've sat down and sent that procrastination away! I've also had some difficulties understanding floats & clear, but I managed to understand everything, tomorrow I will review and stick it into my mind!
 
 **Link to work:** [My notes about the topics above (day 02)](./notes/day02/index.html)
+
+### Day 3: April 24, 2019 - Wednesday
+
+**Today's Progress**: Did my review about CSS floats, recreating a simple layout using floats. After that, I've written my first media query ever! After that,  I wrote a grid of boxes using floats, then recreated this same grid using inline-block display. I also wrote and tested some differences between inline & inline-block display.
+
+**Thoughts:** I felt that today was a very rewarding day. My third day on the challenge, I was a bit tired on the moment I started, but now I'm feeling very energized & happy with my progress. I liked the things I've made today, really happy about it!
+
+**Link to work:** [My notes about the topics above (day 03)](./notes/day03/index.html)
