@@ -27,3 +27,11 @@ Started on April 22, 2019.
 **Thoughts:** I felt that today was a very rewarding day. My third day on the challenge, I was a bit tired on the moment I started, but now I'm feeling very energized & happy with my progress. I liked the things I've made today, really happy about it!
 
 **Link to work:** [My notes about the topics above (day 03)](./notes/day03/index.html)
+
+### Day 4: April 25, 2019 - Thursday
+
+**Today's Progress**: Did a quick recap about inline-block displays, then learned how to use the column-count & column-gap properties to create multi-column text. After that, I've been studying and practicing flexbox.
+
+**Thoughts:** It was a bit hard to start again, but I think that happened because I'm a bit sick today. Anyways, feeling happy about fulfilling my duty :)
+
+**Link to work:** [My notes about the topics above (day 04)](./notes/day04/index.html)
