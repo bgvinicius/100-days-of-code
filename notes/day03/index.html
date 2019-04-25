@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div id="container">
+        <nav>This is the page side navigation bar.
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+                <li>Item 5</li>
+            </ul>
+        </nav>
+    
+        <section>
+            This is the section1.
+            Some content goes here.
+        </section>
+
+        <section>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit. 
+        </section>
+
+        <section>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit. 
+        </section>
+    </div>
+
+    <div id="media-query-container">
+        We can use media queries to create a responsive design in our site. 
+        We add queries depending on the screen size, to make changes in our css.
+        <br>
+        Like: <strong>@media screen and (min-width:600px)</strong> and 
+        <strong>@media screen and (max-width:599px)</strong>.
+
+        <p>See the box below. When the screen width is bigger than 599px, 
+            it will be blue and be a 350px x 350px blue box. But, if the screen width is equal or less than
+            599, it will be a pink, 50px x 50px box. We add this responsivity relative to the screen size
+            using media queries. 
+            <a href="http://learnlayout.com/media-queries.html" 
+            target="_blank" rel="noopener noreferrer">Click here for more info about media queries.</a>
+        </p>
+
+        <div id="box"></div>
+    </div>
+
+    <div id="inline-block-container">
+        We can create a grid of boxes that wraps nicely and fills the browser width using only floats:
+
+        <br>
+        <div class="box">
+            Box 1
+        </div>
+        <div class="box">
+            Box 2
+        </div>
+        <div class="box">
+            Box 3
+        </div>
+        <div class="box">
+            Box 4
+        </div>
+        <div class="box">
+            Box 5
+        </div>
+        <div class="box">
+            Box 6
+        </div>
+        <div class="box">
+            Box 7
+        </div>
+        <div class="box">
+            Box 8
+        </div>
+        <div class="box">
+            Box 9
+        </div>
+        <div class="box">
+            Box 10
+        </div>
+
+        <p class="after-box">The only quirk with this method is that after the boxes 
+            we have to clear the floats to avoid this content floating next to the boxes.</p>
+
+        <p>
+            But, we can achieve the same effect using only <strong>display: inline-block</strong>, 
+            which is way easier.
+            inline-block behaves just like inline display, but the difference with inline-block is that
+            it can also have a width and height.
+        </p>
+
+        <div>
+            <p>Inline <span id="inline-width-test">element inside</span> text here. 
+                We're applying 100px width and height on the span, but, nothing changes :p</p>
+            <p>This time, <span id="inline-block-span">using the span as an inline-block</span> element. 
+                As you can see, now the span has 100px width and height, because 
+                we're setting its display to inline-block.</p>
+        </div>
+
+        <p>Now, recreating the same grid of boxes using inline-block :)</p>
+
+        <div class="box-2">
+            Box 1
+        </div>
+        <div class="box-2">
+            Box 2
+        </div>
+        <div class="box-2">
+            Box 3
+        </div>
+        <div class="box-2">
+            Box 4
+        </div>
+        <div class="box-2">
+            Box 5
+        </div>
+        <div class="box-2">
+            Box 6
+        </div>
+        <div class="box-2">
+            Box 7
+        </div>
+        <div class="box-2">
+            Box 8
+        </div>
+        <div class="box-2">
+            Box 9
+        </div>
+        <div class="box-2">
+            Box 10
+        </div>
+
+        <p>Aaand, we don't need a clear here anymore, because we're not using floats :)</p>
+        <a href="http://learnlayout.com/inline-block.html" target="_blank" 
+        rel="noopener noreferrer">More info about inline-block here!</a>
+    </div>
+</body>
+</html>
