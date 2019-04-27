@@ -35,3 +35,11 @@ Started on April 22, 2019.
 **Thoughts:** It was a bit hard to start again, but I think that happened because I'm a bit sick today. Anyways, feeling happy about fulfilling my duty :)
 
 **Link to work:** [My notes about the topics above (day 04)](./notes/day04/index.html)
+
+### Day 5: April 26, 2019 - Friday
+
+**Today's Progress**: I reviewed Flexbox and created a layout using it, and started implementing my survey form project from FreeCodeCamp.
+
+**Thoughts:** I was tired today, and I also got late at home. So, I didn't do much today, but it's still better than nothing. Tomorrow I'll finish the survey form project from FCC.
+
+**Link to work:** [Survey Form project](https://codepen.io/vinibern/pen/BEMroG)
