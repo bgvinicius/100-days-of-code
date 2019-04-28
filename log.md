@@ -51,3 +51,11 @@ Started on April 22, 2019.
 **Thoughts:** I could have accomplished more if I had started the challenge earlier. But it was good anyways, I had a hard time making the layout, but I managed to make it work.
 
 **Link to work:** [Survey Form project](https://codepen.io/vinibern/pen/BEMroG)
+
+### Day 7: April 28, 2019 - Sunday
+
+**Today's Progress**: Finished my Survey Form project from FreecodeCamp! With my girlfriend help, I improved the design and layout of the page. I also learned a little about color theory.
+
+**Thoughts**: It was a great day today, feeling super! I also realized that I need to practice more about styling inputs because they're very annoying to style.
+
+**Link to work:** [Survey Form project](https://codepen.io/vinibern/pen/BEMroG)
