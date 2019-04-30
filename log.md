@@ -59,3 +59,11 @@ Started on April 22, 2019.
 **Thoughts**: It was a great day today, feeling super! I also realized that I need to practice more about styling inputs because they're very annoying to style.
 
 **Link to work:** [Survey Form project](https://codepen.io/vinibern/pen/BEMroG)
+
+### Day 8: April 29, 2019 - Monday
+
+**Today's Progress**: Started working on the Product Landing Page project from FreeCodeCamp.
+
+**Thoughts**: I got home late and tired today, so I didn't progress a lot today on my project.
+
+**Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
