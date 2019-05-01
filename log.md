@@ -67,3 +67,11 @@ Started on April 22, 2019.
 **Thoughts**: I got home late and tired today, so I didn't progress a lot today on my project.
 
 **Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
+
+### Day 9: April 30, 2019 - Tuesday
+
+**Today's Progress**: Improved the layout of my Product Landing Page, but there is still some work left to do on the page layout.
+
+**Thoughts**: It would have been better if I had planned my page previously, designing the page while coding is counterproductive. Tomorrow I'll think more about the design before implementing.
+
+**Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
