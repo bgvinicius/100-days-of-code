@@ -75,3 +75,11 @@ Started on April 22, 2019.
 **Thoughts**: It would have been better if I had planned my page previously, designing the page while coding is counterproductive. Tomorrow I'll think more about the design before implementing.
 
 **Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
+
+### Day 10: May 1, 2019 - Wednesday
+
+**Today's Progress**: Fixed the remaining issues with the navbar, now everything is in place on the website. Now I have to style individual things like buttons, define the colors, etc.
+
+**Thoughts**: Had some problems to focus today, because I wanted to rest the whole day. It would have been better if I started working on the challenge earlier today.
+
+**Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
