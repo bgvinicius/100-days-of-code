@@ -83,3 +83,11 @@ Started on April 22, 2019.
 **Thoughts**: Had some problems to focus today, because I wanted to rest the whole day. It would have been better if I started working on the challenge earlier today.
 
 **Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
+
+### Day 11: May 2, 2019 - Thursday
+
+**Today's Progress**: Styled the texts from the page, worked on the navbar fonts, sizes, and spaces. I also created a hover effect on the navbar buttons that made me feel like a boss (lmao).
+
+**Thoughts**: Well, I'm very proud of my focus today. I sat down and worked focused for an hour, without distractions. Hopefully, I'll make it again on the weekend! The thing is: prepare a distraction-free atmosphere, use rainymood.com, and focus :)
+
+**Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
