@@ -91,3 +91,11 @@ Started on April 22, 2019.
 **Thoughts**: Well, I'm very proud of my focus today. I sat down and worked focused for an hour, without distractions. Hopefully, I'll make it again on the weekend! The thing is: prepare a distraction-free atmosphere, use rainymood.com, and focus :)
 
 **Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
+
+### Day 12: May 3, 2019 - Friday
+
+**Today's Progress**: I styled the features section of the page. I also made some improvements on the typography, using a new font.
+
+**Thoughts**: Good day! I was tired, but I managed to focus and produce something. I'm very thrilled about this. I used the same strategy from yesterday, prepare the atmosphere, use rainymood.com/some background music, and then start working.
+
+**Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
