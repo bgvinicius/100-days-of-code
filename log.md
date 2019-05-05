@@ -107,3 +107,11 @@ Started on April 22, 2019.
 **Thoughts**: Feeling good about the result of the project :) I did everything early on the day, following my focus strategy, which is doing wonders for me!
 
 **Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
+
+### Day 14: May 5, 2019 - Sunday
+
+**Today's Progress**: Started working on the Technical Documentation project from freecodecamp. Implemented the initial layout, and styled some elements of the page.
+
+**Thoughts**: Today I wasn't in the mood to work, but I did my part anyways. Fulfilled my duty!
+
+**Link to work:** [Technical Documentation page](https://codepen.io/vinibern/pen/mYdLEP)
