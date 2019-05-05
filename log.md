@@ -99,3 +99,11 @@ Started on April 22, 2019.
 **Thoughts**: Good day! I was tired, but I managed to focus and produce something. I'm very thrilled about this. I used the same strategy from yesterday, prepare the atmosphere, use rainymood.com/some background music, and then start working.
 
 **Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
+
+### Day 13: May 4, 2019 - Saturday
+
+**Today's Progress**: Finished my Product Landing Page project from FreeCodeCamp.
+
+**Thoughts**: Feeling good about the result of the project :) I did everything early on the day, following my focus strategy, which is doing wonders for me!
+
+**Link to work:** [Product Landing page](https://codepen.io/vinibern/pen/oOOarj)
