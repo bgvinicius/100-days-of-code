@@ -115,3 +115,11 @@ Started on April 22, 2019.
 **Thoughts**: Today I wasn't in the mood to work, but I did my part anyways. Fulfilled my duty!
 
 **Link to work:** [Technical Documentation page](https://codepen.io/vinibern/pen/mYdLEP)
+
+### Day 15: May 6, 2019 - Monday
+
+**Today's Progress**: Styled some boxes from the page, improved the font color of the content and used JS to create a toggle effect on the navbar buttons.
+
+**Thoughts**: I have some tests during this week, so I need some time to focus on them.
+
+**Link to work:** [Technical Documentation page](https://codepen.io/vinibern/pen/mYdLEP)
