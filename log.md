@@ -123,3 +123,11 @@ Started on April 22, 2019.
 **Thoughts**: I have some tests during this week, so I need some time to focus on them.
 
 **Link to work:** [Technical Documentation page](https://codepen.io/vinibern/pen/mYdLEP)
+
+### Day 16: May 7, 2019 - Tuesday
+
+**Today's Progress**: Added some content to the page, now I know what to improve on it. Also finished a remaining issue with the toggle effect I've created.
+
+**Thoughts**: Same issue from yesterday, this week my focus is on college.
+
+**Link to work:** [Technical Documentation page](https://codepen.io/vinibern/pen/mYdLEP)
