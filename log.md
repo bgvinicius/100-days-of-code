@@ -131,3 +131,5 @@ Started on April 22, 2019.
 **Thoughts**: Same issue from yesterday, this week my focus is on college.
 
 **Link to work:** [Technical Documentation page](https://codepen.io/vinibern/pen/mYdLEP)
+
+### Day 17: Working on school exam.
