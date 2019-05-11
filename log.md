@@ -135,3 +135,5 @@ Started on April 22, 2019.
 ### Day 17: Working on a college exam.
 
 ### Day 18: Working on a college exam. I also did some programming exercises from URI, which was an assignment from a programming class I have.
+
+### Day 19: Getting ready to work tomorrow.
